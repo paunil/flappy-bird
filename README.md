@@ -1,3 +1,7 @@
-# Create React App minimal setup
+# Flappy Bird
 
-This project was created with Create React App and a minimal setup custom template.
+[flappy-bird.paulina.tech](https://flappy-bird.paulina.tech)
+
+This is a Flappy bird game that uses `localStorage` to save the high score. The project was created with `React` and `TypeScript`.
+ 
+![](demo.gif)
